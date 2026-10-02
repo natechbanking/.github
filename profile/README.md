@@ -1,26 +1,26 @@
-# Natech Banking Solutions
-
-**Unlimit Banking Ambition.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natechbanking/.github/main/profile/assets/banner-dark.svg">
+  <img alt="Natech: Unlimit Banking Ambition. Modular, front-to-back banking platform for small and mid-sized financial institutions." src="https://raw.githubusercontent.com/natechbanking/.github/main/profile/assets/banner-light.svg" width="100%">
+</picture>
 
 Natech builds a modular, front-to-back banking platform for small and mid-sized
 financial institutions: core banking, digital channels, AML compliance and
 Banking-as-a-Service in one stack. Banks use it to modernise operations, cut
 costs and launch new products fast.
 
-- Founded in **2003**
-- **40+** financial institutions served, **100%** client retention
-- Full platform live in about **90 days**, standalone solutions in about **2 weeks**
-- Best Use of AI in Cloud Computing award, 2026
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natechbanking/.github/main/profile/assets/stats-dark.svg">
+  <img alt="Founded 2003. 40+ financial institutions. 100% client retention. Full platform live in about 90 days, standalone solutions in about 2 weeks." src="https://raw.githubusercontent.com/natechbanking/.github/main/profile/assets/stats-light.svg" width="100%">
+</picture>
+
+Winner of the Best Use of AI in Cloud Computing award, 2026.
 
 ## What we build
 
-| | |
-| --- | --- |
-| **Core Banking** | Retail and business banking: lending, deposits, e-wallets, BNPL |
-| **Digital Channels** | API-based web and mobile banking with a neobank-grade UX |
-| **AML** | Rules-based anti-money laundering with real-time matching and scoring |
-| **Banking-as-a-Service** | Turnkey BNPL and e-wallet products for embedded finance |
-| **Trade Finance** | Digital trade finance products, built with EU NextGenerationEU support |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natechbanking/.github/main/profile/assets/platform-dark.svg">
+  <img alt="Natech platform: Digital Channels (API-based web and mobile banking), Core Banking (lending, deposits, e-wallets, BNPL), AML (real-time matching and scoring), Banking-as-a-Service (turnkey BNPL and e-wallets for embedded finance), Trade Finance." src="https://raw.githubusercontent.com/natechbanking/.github/main/profile/assets/platform-light.svg" width="100%">
+</picture>
 
 ## Open source
 
@@ -29,8 +29,8 @@ costs and launch new products fast.
 
 ## Work with us
 
-- Platform: [natechbanking.com/platform](https://natechbanking.com/platform/)
-- Careers: [natechbanking.com/careers](https://natechbanking.com/careers/)
-- Blog: [natechbanking.com/blog](https://natechbanking.com/blog/)
-- Contact: [natechbanking.com/contact-us](https://natechbanking.com/contact-us/)
-- [LinkedIn](https://www.linkedin.com/company/natech-s-a/)
+[Platform](https://natechbanking.com/platform/) ·
+[Careers](https://natechbanking.com/careers/) ·
+[Blog](https://natechbanking.com/blog/) ·
+[Contact](https://natechbanking.com/contact-us/) ·
+[LinkedIn](https://www.linkedin.com/company/natech-s-a/)
